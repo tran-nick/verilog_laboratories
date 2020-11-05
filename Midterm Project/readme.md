@@ -1,1 +1,2 @@
-Midterm Project - Create Arithmetic Logic Unit
+#Midterm Project
+Create Arithmetic Logic Unit
